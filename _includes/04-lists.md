@@ -1,4 +1,4 @@
-[] Dogs 
-[] Boys 
-[] friends 
-[] Jesus
+* Dogs 
+* Boys 
+* friends 
+* Jesus
